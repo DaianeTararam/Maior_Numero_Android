@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Descubra o maior número ou a soma deles</string>
+    <string name="etNum1">Digite um número</string>
+    <string name="etNum2">Digite um número</string>
+    <string name="tvMaior">O maior número é</string>
+    <string name="tvSoma">A soma dos números é</string>
+    <string name="btnDescubra">Descubra</string>
+    <string name="btnSomar">Somar Aqui</string>
+</resources>
